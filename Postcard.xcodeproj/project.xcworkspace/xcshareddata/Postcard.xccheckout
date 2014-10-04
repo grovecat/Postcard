@@ -8,12 +8,12 @@
 	<string>7EAEA71E-E362-4B3B-B4C0-B46C6E3A270D</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>DE111848494B80F665904D740CA5C6A325EBF18B</key>
+		<key>AE3B853B7A6A1EDA58902E65558D2112BB13E935</key>
 		<string>https://github.com/grovecat/Postcard</string>
 	</dict>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>DE111848494B80F665904D740CA5C6A325EBF18B</key>
+		<key>AE3B853B7A6A1EDA58902E65558D2112BB13E935</key>
 		<string>postcard</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -21,14 +21,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>DE111848494B80F665904D740CA5C6A325EBF18B</string>
+	<string>AE3B853B7A6A1EDA58902E65558D2112BB13E935</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>DE111848494B80F665904D740CA5C6A325EBF18B</string>
+			<string>AE3B853B7A6A1EDA58902E65558D2112BB13E935</string>
 			<key>IDESourceControlWCCName</key>
 			<string>postcard</string>
 		</dict>
